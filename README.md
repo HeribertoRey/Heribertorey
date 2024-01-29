@@ -1,4 +1,11 @@
 ### Hi there 👋
+```js
+const HeribertoRey = {
+  pronouns: "he" | "him",
+  code: [JavaScript, HTML, CSS, Python, JAVA,],
+  tools:[Spring Boot, React]
+}
+
 
 <!--
 **HeribertoRey/Heribertorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
