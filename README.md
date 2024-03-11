@@ -1,5 +1,6 @@
 ### Hi there 👋
-### ![1628742030836](https://github.com/HeribertoRey/Heribertorey/assets/108953428/2a61d410-2da3-479d-aa55-c671c5e63bbd)
+### ![Black and Blue Minimalist Project Manager Email Signature](https://github.com/HeribertoRey/Heribertorey/assets/108953428/494557b1-8551-4d8d-a62f-b28470859a68)
+
 
 ```js
 const HeribertoRey = {
