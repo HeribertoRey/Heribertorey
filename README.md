@@ -1,45 +1,54 @@
 # ¡Hola! Soy Daniel Reyes 👋
 
-💼 **Data Analyst | Process & Production Control Specialist**  
+💼 **Analista de datos | Control de producción y procesos**
 📍 El Salvador
 
-Apasionado por la transformación de datos en decisiones estratégicas de negocio. Cuento con experiencia profesional en gestión y documentación de procesos en entornos exigentes, complementada con un sólido enfoque en **SQL, Python, Power BI, Excel avanzado** y herramientas analíticas para resolver problemas complejos y optimizar flujos de trabajo.
+Más de 6 años transformando datos operativos en información útil para la toma de decisiones. Trabajé en AEROMAN (2020–2026) extrayendo y depurando datos de producción para análisis operativo, y desarrollé un módulo digital de control de tiempos que reemplazó el registro manual. Hoy estoy enfocado en **SQL, Python (pandas), Power BI y Excel avanzado** para dar el salto al análisis de datos.
 
 ---
 
-### 🛠️ Stack Tecnológico & Herramientas
+### 🛠️ Stack Tecnológico
 
-* **Análisis de Datos & Programación:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Java, PHP (Básico)
-* **Visualización & BI:** Power BI, Power Query, Excel Avanzado
-* **Entornos & Automatización:** Docker, Git & GitHub, Jupyter Notebooks, Linux / Windows
-* **Metodologías:** Documentación de Procesos, Control de Producción, Optimización de Flujos de Trabajo
-
----
-
-### 🎓 Certificaciones & Aprendizaje Continuo
-
-* **Data Science Essentials with Python** — Cisco
-* **Data & AI Specialized Courses** — Platzi
-* **Claude AI & Prompt Engineering for Productivity**
+* **Datos y programación:** SQL (MySQL), Python (pandas), Java, JavaScript, PHP (básico)
+* **BI y visualización:** Power BI, Power Query, Tableau (DAX), Excel avanzado (tablas dinámicas, BUSCARV, XLOOKUP)
+* **Herramientas:** Git y GitHub, conexión ODBC y procesos ETL
+* **Metodologías:** Scrum / Ágil, documentación y optimización de procesos
 
 ---
 
-### 📌 Proyectos Destacados
+### 💼 Experiencia
 
-> *(Aquí irás agregando los enlaces directos a los repositorios de tu portafolio)*
-
-* 📊 **[Análisis Exploratorio de Datos / Proyecto SQL](#)**  
-  *Descripción corta: Limpieza, transformación de datos con SQL/Python y generación de hallazgos clave para toma de decisiones.*
-
-* 📈 **[Tablero Interactivo en Power BI / Excel](#)**  
-  *Descripción corta: Dashboard para seguimiento de indicadores clave de rendimiento (KPIs) e impacto operacional.*
+* **Encargado de Control de Producción y Procesos — AEROMAN** (2020–2026): extracción y filtrado de datos para análisis operativo, ETL con Power Query y desarrollo de un módulo digital de control de tiempos.
+* **Soporte Técnico Operativo — 2M Service** (2017–2020): soporte IT asignado a AEROMAN.
+* **Supervisor de Digitalización y Manejo Documental — SISA Seguros** (2015–2017): gestión documental con Laserfiche.
 
 ---
 
-### 📫 Contacto & Redes
+### 🎓 Certificaciones
 
-* **LinkedIn:** www.linkedin.com/in/daniel-heriberto-reyes-méndez
-* **Email:** Heribertorey2@gmail.com
+* **Data Science Essentials with Python** — Cisco Networking Academy (sep 2026)
+* **Data Analytics Essentials** — Cisco Networking Academy (sep 2026)
+* **Introducción a la Inteligencia Artificial, Claude AI e IA para Reuniones y Notas** — Platzi (ago 2026)
+* **Formación Back End (Java, SQL/MySQL, Spring Boot, Git)** — Alura / Oracle Next Education (2022–2023)
+* **Administración de Información Digital para Reportes Empresariales** — WEBCOMMSERVICE (2023)
+* **Técnico en Mantenimiento de Computadoras** — ITCA FEPADE (2015)
+
+---
+
+### 📌 Proyectos
+
+* **[Conversor de Divisas y Temperatura](https://github.com/HeribertoRey/Challenge-Conversor-Alura)** — Java · Challenge Alura
+* **[Encriptador de texto](https://github.com/HeribertoRey/Alura-Challenge01-Encriptador)** — JavaScript · Challenge Alura
+* **[Hotel Alura (Back End)](https://github.com/HeribertoRey/challenge-one-alura-hotel-latam)** — Java · Tercer desafío Oracle ONE
+* 🚧 **Próximamente:** proyecto de análisis con SQL/Python y dashboard en Power BI.
+
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** [Daniel Heriberto Reyes Méndez](https://www.linkedin.com/in/daniel-heriberto-reyes-méndez)
+* **Email:** heribertorey2@gmail.com
+* **GitHub:** [HeribertoRey](https://github.com/HeribertoRey)
 
 ---
 
