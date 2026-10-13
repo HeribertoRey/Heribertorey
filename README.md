@@ -9,9 +9,9 @@ Más de 6 años transformando datos operativos en información útil para la tom
 
 ### 🛠️ Stack Tecnológico
 
-* **Datos y programación:** SQL (MySQL), Python (pandas), Java, JavaScript, PHP (básico)
+* **Datos y programación:** SQL (MySQL), Python (pandas, Matplotlib), Java, JavaScript, PHP (básico)
 * **BI y visualización:** Power BI, Power Query, Tableau (DAX), Excel avanzado (tablas dinámicas, BUSCARV, XLOOKUP)
-* **Herramientas:** Git y GitHub, conexión ODBC y procesos ETL
+* **Herramientas:** Git y GitHub, Docker (nivel básico), conexión ODBC y procesos ETL
 * **Metodologías:** Scrum / Ágil, documentación y optimización de procesos
 
 ---
@@ -30,6 +30,7 @@ Más de 6 años transformando datos operativos en información útil para la tom
 * **Data Analytics Essentials** — Cisco Networking Academy (sep 2026)
 * **Introducción a la Inteligencia Artificial, Claude AI e IA para Reuniones y Notas** — Platzi (ago 2026)
 * **Formación Back End (Java, SQL/MySQL, Spring Boot, Git)** — Alura / Oracle Next Education (2022–2023)
+* **Taller Programming Bitcoin** — CUBO+ (taller práctico, sin certificado oficial)
 * **Administración de Información Digital para Reportes Empresariales** — WEBCOMMSERVICE (2023)
 * **Técnico en Mantenimiento de Computadoras** — ITCA FEPADE (2015)
 
